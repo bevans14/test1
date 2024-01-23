@@ -1,0 +1,21 @@
+{
+  "name": "reactrefactor",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^9.0.0",
+    "react-hook-form": "^7.49.3",
+    "react-scripts": "^5.0.1",
+    "vee-validate": "^4.12.4"
+  }
+}
